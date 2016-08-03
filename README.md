@@ -3,6 +3,10 @@ A self-made tutorial for GitHub Flavored Markdown (GFM)
 
 ## Usage 
 
+This is a usage of the file "A self-made tutorial for GitHub Flavored Markdown (GFM).md".
+
+The structure of the tutorial is the following:
+
 [Description \#1] 
 
 [The GFM-source of the above description \#1]
