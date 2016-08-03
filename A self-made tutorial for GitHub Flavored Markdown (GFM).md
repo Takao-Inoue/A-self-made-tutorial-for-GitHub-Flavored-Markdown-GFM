@@ -204,7 +204,7 @@ int main() {
    
    return 0;
 }
-` ` ` (Delete two spaces between `and ` . )
+` ` ` (Delete two spaces between ` and ` . )
 ``` 
 
 ## Link
