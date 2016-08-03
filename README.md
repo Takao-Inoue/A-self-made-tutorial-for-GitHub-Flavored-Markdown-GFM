@@ -11,7 +11,7 @@ A self-made tutorial for GitHub Flavored Markdown (GFM)
 
 [Description \#n] 
 
-[The GFMsource of the above description \#n]
+[The GFM-source of the above description \#n]
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
