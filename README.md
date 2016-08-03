@@ -1,7 +1,7 @@
 # A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM
 A self-made tutorial for GitHub Flavored Markdown (GFM)
 
-## Usage 
+## Usage   :cherry_blossom:
 
 This is the usage of the file "A self-made tutorial for GitHub Flavored Markdown (GFM).md".
 
