@@ -19,5 +19,5 @@ The structure of the tutorial is the following:
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-All rights reserved by Takao Inoue. Aug 3, 2016.
+All rights reserved by Takao Inoue.   Aug 3, 2016.
 
