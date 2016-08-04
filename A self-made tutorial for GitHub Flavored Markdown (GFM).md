@@ -367,4 +367,21 @@ Hello GitHub!
 For this syntax highlighting, [linguist](https://github.com/github/linguist) is made use of.
 ```
 
+## Tables
+
+Ninja         | Shogun
+------------- | -------------
+Iga           | Tokugawa
+Kouga         | Toyotomi
+Fuuma         | Oda
+
+```
+(The source of the above)
+Ninja         | Shogun
+------------- | -------------
+Iga           | Tokugawa
+Kouga         | Toyotomi
+Fuuma         | Oda
+
+```
 
