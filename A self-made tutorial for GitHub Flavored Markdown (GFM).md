@@ -467,17 +467,17 @@ Iga    | _Tokugawa_
 
 | Fruits | Name | Taste | Comments |
 | :------------: | :---------------: | :---------------: | :----- |
-|:apple: | Apple | |
+|:apple: | Apple | | Apples produced in Nagano in Japan are one of the best.
 |:green_apple: | Green apple | |
 |:tangerine: | Tangerine | |
-|:lemon: | Lemmon | |
+|:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | |
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | |
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
 |:melon: | Melon| |
-|:banana: | Banana | |
+|:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | |
 |:pineapple: | Pinapple | |
 
@@ -495,17 +495,17 @@ Iga    | _Tokugawa_
 
 | Fruits | Name | Taste | Comments |
 | :------------: | :---------------: | :---------------: | :----- |
-|:apple: | Apple | |
+|:apple: | Apple | | Apples produced in Nagano in Japan are one of the best.
 |:green_apple: | Green apple | |
 |:tangerine: | Tangerine | |
-|:lemon: | Lemmon | |
+|:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | |
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | |
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
 |:melon: | Melon| |
-|:banana: | Banana | |
+|:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | |
 |:pineapple: | Pinapple | |
 ```
