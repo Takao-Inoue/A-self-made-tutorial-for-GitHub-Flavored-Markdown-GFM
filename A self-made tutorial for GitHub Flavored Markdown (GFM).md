@@ -383,7 +383,8 @@ For this syntax highlighting, [linguist](https://github.com/github/linguist) is 
 
 ## Tables
 
-Examples1-3 are the same tables whose sources are different.
+Examples1-3 are the same tables whose sources are different. 
+(Each ninja (group) was finally hired by the corresponding shogun.)
 
 ### Example 1
 
@@ -422,6 +423,7 @@ Iga    | _Tokugawa_
 ## Tables
 
 Examples1-3 are the same tables whose sources are different.
+(Each ninja (group) was finally hired by the corresponding shogun.)
 
 ### Example 1
 
