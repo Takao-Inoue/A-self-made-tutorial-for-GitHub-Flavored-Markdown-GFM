@@ -380,8 +380,8 @@ Fuuma         | Oda
 Ninja         | Shogun
 ------------- | -------------
 Iga           | Tokugawa
-Kouga         | Toyotomi
-Fuuma         | Oda
+              | Toyotomi
+Kouga         | Oda
 
 ```
 
