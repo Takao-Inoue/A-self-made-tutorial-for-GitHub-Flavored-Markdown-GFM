@@ -417,7 +417,7 @@ Ninja | Shogun
 ------------- | -------------
 Iga    | _Tokugawa_
 **Kouga**         | *Oda*
-~~Fuuma~~     | ~~None~~
+~~Fuuma~~     | **~~None~~**
 
 ```
 (The source of the above)
@@ -457,7 +457,7 @@ Ninja | Shogun
 ------------- | -------------
 Iga    | _Tokugawa_
 **Kouga**         | *Oda*
-~~Fuuma~~     | ~~None~~
+~~Fuuma~~     | **~~None~~**
 ```
 ### Example 5 (text-align)
 
