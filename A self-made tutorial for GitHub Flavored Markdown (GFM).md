@@ -390,7 +390,7 @@ Fuuma         | None
 ### Example 3
 
 Ninja | Shogun
-------------- | -------------
+--------- | -------------
 Iga    | Tokugawa
 Kouga         | Oda
 Fuuma     | None
@@ -412,7 +412,7 @@ Examples1-3 are the same tables whose sources are different.
 ### Example 1
 
 Ninja         | Shogun
-------------- | -------------
+--------- | -------------
 Iga           | Tokugawa
 Kouga         | Oda
 Fuuma         | None
