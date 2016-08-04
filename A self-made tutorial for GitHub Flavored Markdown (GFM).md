@@ -476,14 +476,14 @@ Iga    | _Tokugawa_
 | Fruits | Name | Taste | Comments |
 | :------------: | :---------------: | :---------------: | :----- |
 |:apple: | Apple | | Apples produced in Nagano in Japan are one of the best.
-|:green_apple: | Green apple | |
-|:tangerine: | Tangerine | |
+|:green_apple: | Green apple | 
+|:tangerine: | Tangerine | | |
 |:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry| |
-|:peach: | Peach | |
+|:strawberry: | Strawberry||
+|:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
@@ -504,18 +504,19 @@ Iga    | _Tokugawa_
 | Fruits | Name | Taste | Comments |
 | :------------: | :---------------: | :---------------: | :----- |
 |:apple: | Apple | | Apples produced in Nagano in Japan are one of the best.
-|:green_apple: | Green apple | |
-|:tangerine: | Tangerine | |
+|:green_apple: | Green apple | 
+|:tangerine: | Tangerine | | |
 |:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry| |
-|:peach: | Peach | |
+|:strawberry: | Strawberry||
+|:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
+
 ```
 
 
