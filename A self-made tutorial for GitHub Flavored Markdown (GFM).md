@@ -463,21 +463,23 @@ Iga    | _Tokugawa_
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
 
-| Fruits  | Taste  | Comments |
-| :------------: | :---------------: | :-----|
-|:apple: | |
-|:green_apple: | |
-|:tangerine: | |
-|:lemon: | |
-|:cherries: | |
-|:grapes | |:
-|:watermelon: | |
-|:strawberry: | |
-|:peach: | |
-|:melon: | |
-|:banana: | |
-|:pear: | |
-|:pineapple: | |
+### Example 6
+
+| Fruits | Name | Taste | Comments |
+| :------------: | :---------------: | :---------------: | :----- |
+|:apple: | Apple | |
+|:green_apple: | Green apple | |
+|:tangerine: | Tangerine | |
+|:lemon: | Lemmon | |
+|:cherries: | Cherries | |
+|:grapes: | Grapes | |
+|:watermelon: |Watermelon  | |
+|:strawberry: | Strawberry| |
+|:peach: | Peach | |
+|:melon: | Melon| |
+|:banana: | Banana | |
+|:pear: | Pear | |
+|:pineapple: | Pinapple | |
 
 ```
 (The source of the above)
@@ -489,22 +491,23 @@ Iga    | _Tokugawa_
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
 
-| Fruits  | Taste  | Comments |
-| :------------: | :---------------: | :-----|
-|:apple: | |
-|:green_apple: | |
-|:tangerine: | |
-|:lemon: | |
-|:cherries: | |
-|:grapes | |:
-|:watermelon: | |
-|:strawberry: | |
-|:peach: | |
-|:melon: | |
-|:banana: | |
-|:pear: | |
-|:pineapple: | |
+### Example 6
 
+| Fruits | Name | Taste | Comments |
+| :------------: | :---------------: | :---------------: | :----- |
+|:apple: | Apple | |
+|:green_apple: | Green apple | |
+|:tangerine: | Tangerine | |
+|:lemon: | Lemmon | |
+|:cherries: | Cherries | |
+|:grapes: | Grapes | |
+|:watermelon: |Watermelon  | |
+|:strawberry: | Strawberry| |
+|:peach: | Peach | |
+|:melon: | Melon| |
+|:banana: | Banana | |
+|:pear: | Pear | |
+|:pineapple: | Pinapple | |
 ```
 
 
