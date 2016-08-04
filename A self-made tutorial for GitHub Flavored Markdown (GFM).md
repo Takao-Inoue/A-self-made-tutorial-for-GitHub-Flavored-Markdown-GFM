@@ -369,11 +369,15 @@ For this syntax highlighting, [linguist](https://github.com/github/linguist) is 
 
 ## Tables
 
+### Example 1
+
 Ninja         | Shogun
 ------------- | -------------
 Iga           | Tokugawa
 Kouga         | Oda
 Fuuma         | None
+
+### Example 2
 
 |Ninja         | Shogun       |
 |------------- | -------------|
@@ -381,12 +385,15 @@ Fuuma         | None
 |Kouga         | Oda          |
 |Fuuma         | None         |
 
+### Example 3
 
 Ninja | Shogun
 ------------- | -------------
 Iga    | Tokugawa
 Kouga         | Oda
 Fuuma     | None
+
+### Example 4
 
 Ninja | Shogun
 ------------- | -------------
@@ -396,11 +403,17 @@ Iga    | _Tokugawa_
 
 ```
 (The source of the above)
+## Tables
+
+### Example 1
+
 Ninja         | Shogun
 ------------- | -------------
 Iga           | Tokugawa
 Kouga         | Oda
 Fuuma         | None
+
+### Example 2
 
 |Ninja         | Shogun       |
 |------------- | -------------|
@@ -408,11 +421,15 @@ Fuuma         | None
 |Kouga         | Oda          |
 |Fuuma         | None         |
 
+### Example 3
+
 Ninja | Shogun
 ------------- | -------------
 Iga    | Tokugawa
 Kouga         | Oda
 Fuuma     | None
+
+### Example 4
 
 Ninja | Shogun
 ------------- | -------------
@@ -420,21 +437,23 @@ Iga    | _Tokugawa_
 **Kouga**         | Oda
 ~~Fuuma~~     | ~~None~~
 ```
-
+### Example 5
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | Bach          | Bach       | Bach |
 | Mozart     | Mozart        |   Mozart |
-| Brahms | Brahms         |    $Brahms  |
+| Brahms | Brahms         |    Brahms  |
 
 ```
 (The source of the above)
+### Example 5
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | Bach          | Bach       | Bach |
 | Mozart     | Mozart        |   Mozart |
-| Brahms | Brahms         |    $Brahms  |
+| Brahms | Brahms         |    Brahms  |
 
 ```
 
