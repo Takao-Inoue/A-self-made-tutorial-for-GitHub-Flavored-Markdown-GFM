@@ -473,12 +473,12 @@ Iga    | _Tokugawa_
 |:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | |
 |:grapes: | Grapes | |
-|:watermelon: |Watermelon  | |
+|:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
 |:melon: | Melon| |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
-|:pear: | Pear | |
+|:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | |
 
 ```
@@ -501,12 +501,12 @@ Iga    | _Tokugawa_
 |:lemon: | Lemmon | Sour!|
 |:cherries: | Cherries | |
 |:grapes: | Grapes | |
-|:watermelon: |Watermelon  | |
+|:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
 |:melon: | Melon| |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
-|:pear: | Pear | |
+|:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | |
 ```
 
