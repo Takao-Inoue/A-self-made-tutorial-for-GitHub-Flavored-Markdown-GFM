@@ -476,7 +476,7 @@ Iga    | _Tokugawa_
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
-|:melon: | Melon| |
+|:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
@@ -504,7 +504,7 @@ Iga    | _Tokugawa_
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
 |:peach: | Peach | |
-|:melon: | Melon| |
+|:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
