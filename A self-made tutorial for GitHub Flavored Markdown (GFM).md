@@ -7,7 +7,7 @@ A self-made tutorial for GitHub Flavored Markdown (GFM)
 The filename extension for GFM is md, used as (filename).md. 
 This file is "A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM.md". 
 This short tutotial gives a set of concrete descriptions and their sources written by using GFM. 
-There is little explanations and one will directly understand the contents from the sources. 
+There is little explanation and one will directly understand the contents from the sources. 
 
 ### Heading
 #### small heading
@@ -31,7 +31,7 @@ A self-made tutorial for GitHub Flavored Markdown (GFM)
 The filename extension for GFM is md, used as (filename).md. 
 This file is "A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM.md". 
 This short tutotial gives a set of concrete descriptions and their sources written by using GFM. 
-There is little explanations and one will directly understand the contents from the sources. 
+There is little explanation and one will directly understand the contents from the sources. 
 
 ### Heading
 #### small heading
