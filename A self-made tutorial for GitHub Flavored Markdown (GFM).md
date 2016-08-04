@@ -369,6 +369,8 @@ For this syntax highlighting, [linguist](https://github.com/github/linguist) is 
 
 ## Tables
 
+Examples1-3 are the same tables whose sources are different.
+
 ### Example 1
 
 Ninja         | Shogun
@@ -405,6 +407,8 @@ Iga    | _Tokugawa_
 (The source of the above)
 ## Tables
 
+Examples1-3 are the same tables whose sources are different.
+
 ### Example 1
 
 Ninja         | Shogun
@@ -437,7 +441,7 @@ Iga    | _Tokugawa_
 **Kouga**         | Oda
 ~~Fuuma~~     | ~~None~~
 ```
-### Example 5
+### Example 5 (text-align)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
@@ -447,7 +451,7 @@ Iga    | _Tokugawa_
 
 ```
 (The source of the above)
-### Example 5
+### Example 5 (text-align)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
