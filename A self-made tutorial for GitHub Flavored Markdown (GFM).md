@@ -463,6 +463,22 @@ Iga    | _Tokugawa_
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
 
+| Fruits  | Taste  | Comments |
+| :------------: | :---------------: | :-----|
+|:apple: | |
+|:green_apple: | |
+|:tangerine: | |
+|:lemon: | |
+|:cherries: | |
+|:grapes | |:
+|:watermelon: | |
+|:strawberry: | |
+|:peach: | |
+|:melon: | |
+|:banana: | |
+|:pear: | |
+|:pineapple: | |
+
 ```
 (The source of the above)
 ### Example 5 (text-align)
@@ -472,6 +488,22 @@ Iga    | _Tokugawa_
 | Bach          | Bach       | Bach |
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
+
+| Fruits  | Taste  | Comments |
+| :------------: | :---------------: | :-----|
+|:apple: | |
+|:green_apple: | |
+|:tangerine: | |
+|:lemon: | |
+|:cherries: | |
+|:grapes | |:
+|:watermelon: | |
+|:strawberry: | |
+|:peach: | |
+|:melon: | |
+|:banana: | |
+|:pear: | |
+|:pineapple: | |
 
 ```
 
