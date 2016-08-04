@@ -471,7 +471,7 @@ Iga    | _Tokugawa_
 |:green_apple: | Green apple | |
 |:tangerine: | Tangerine | |
 |:lemon: | Lemmon | Sour!|
-|:cherries: | Cherries | |
+|:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
@@ -479,7 +479,7 @@ Iga    | _Tokugawa_
 |:melon: | Melon| |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
-|:pineapple: | Pinapple | |
+|:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
 
 ```
 (The source of the above)
@@ -499,7 +499,7 @@ Iga    | _Tokugawa_
 |:green_apple: | Green apple | |
 |:tangerine: | Tangerine | |
 |:lemon: | Lemmon | Sour!|
-|:cherries: | Cherries | |
+|:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
 |:strawberry: | Strawberry| |
@@ -507,7 +507,7 @@ Iga    | _Tokugawa_
 |:melon: | Melon| |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
 |:pear: | Pear | Special nice taste |
-|:pineapple: | Pinapple | |
+|:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
 ```
 
 
