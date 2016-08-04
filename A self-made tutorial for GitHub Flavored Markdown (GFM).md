@@ -375,12 +375,24 @@ Iga           | Tokugawa
 Kouga         | Oda
 Fuuma         | None
 
+|Ninja         | Shogun       |
+|------------- | -------------|
+|Iga           | Tokugawa     |
+|Kouga         | Oda          |
+|Fuuma         | None         |
+
 
 Ninja | Shogun
 ------------- | -------------
 Iga    | Tokugawa
 Kouga         | Oda
 Fuuma     | None
+
+Ninja | Shogun
+------------- | -------------
+Iga    | _Tokugawa_
+**Kouga**         | Oda
+~~Fuuma~~     | ~~None~~
 
 ```
 (The source of the above)
@@ -390,10 +402,40 @@ Iga           | Tokugawa
 Kouga         | Oda
 Fuuma         | None
 
+|Ninja         | Shogun       |
+|------------- | -------------|
+|Iga           | Tokugawa     |
+|Kouga         | Oda          |
+|Fuuma         | None         |
+
 Ninja | Shogun
 ------------- | -------------
 Iga    | Tokugawa
 Kouga         | Oda
 Fuuma     | None
+
+Ninja | Shogun
+------------- | -------------
+Iga    | _Tokugawa_
+**Kouga**         | Oda
+~~Fuuma~~     | ~~None~~
 ```
+
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| Bach          | Bach       | Bach |
+| Mozart     | Mozart        |   Mozart |
+| Brahms | Brahms         |    $Brahms  |
+
+```
+(The source of the above)
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| Bach          | Bach       | Bach |
+| Mozart     | Mozart        |   Mozart |
+| Brahms | Brahms         |    $Brahms  |
+
+```
+
 
