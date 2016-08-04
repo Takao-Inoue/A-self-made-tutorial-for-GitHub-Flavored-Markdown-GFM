@@ -372,15 +372,28 @@ For this syntax highlighting, [linguist](https://github.com/github/linguist) is 
 Ninja         | Shogun
 ------------- | -------------
 Iga           | Tokugawa
-Kouga　　　　 | Oda
+Kouga         | Oda
 Fuuma         | None
+
+
+Ninja | Shogun
+------------- | -------------
+Iga    | Tokugawa
+Kouga         | Oda
+Fuuma     | None
 
 ```
 (The source of the above)
 Ninja         | Shogun
 ------------- | -------------
 Iga           | Tokugawa
-Kouga　　　　 | Oda
+Kouga         | Oda
 Fuuma         | None
+
+Ninja | Shogun
+------------- | -------------
+Iga    | Tokugawa
+Kouga         | Oda
+Fuuma     | None
 ```
 
