@@ -112,7 +112,7 @@ Nice words:
   2. Stability theory
 3. Recursion theory
   1. Recursion theorem
-  2. Borel hierachy
+  2. Arithmetical hierachy
 4. Set theory
   1. Forcing
   2. Large cardinals
@@ -134,7 +134,7 @@ Nice words:
   2. Stability theory
 3. Recursion theory
   1. Recursion theorem
-  2. Borel hierachy
+  2. Arithmetical hierachy
 4. Set theory
   1. Forcing
   2. Large cardinals
@@ -470,6 +470,7 @@ Iga    | _Tokugawa_
 | Bach          | Bach       | Bach |
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
+| Chopin | Chopin         |    Chopin  |
 
 ### Example 6
 
@@ -498,6 +499,7 @@ Iga    | _Tokugawa_
 | Bach          | Bach       | Bach |
 | Mozart     | Mozart        |   Mozart |
 | Brahms | Brahms         |    Brahms  |
+| Chopin | Chopin         |    Chopin  |
 
 ### Example 6
 
