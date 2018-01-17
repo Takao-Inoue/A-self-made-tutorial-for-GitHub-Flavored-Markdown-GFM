@@ -112,7 +112,7 @@ Nice words:
   2. Stability theory
 3. Recursion theory
   1. Recursion theorem
-  2. Arithmetical hierachy
+  2. Arithmetical hierarchy
 4. Set theory
   1. Forcing
   2. Large cardinals
@@ -134,7 +134,7 @@ Nice words:
   2. Stability theory
 3. Recursion theory
   1. Recursion theorem
-  2. Arithmetical hierachy
+  2. Arithmetical hierarchy
 4. Set theory
   1. Forcing
   2. Large cardinals
