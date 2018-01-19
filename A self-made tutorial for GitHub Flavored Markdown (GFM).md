@@ -127,11 +127,11 @@ Nice words:
   1. Cut elimination theorem
   2. Consistency
 2. Model theory
---
-  1. Classic theory
++
+1. Classic theory
     1. Quantifier elimination
     2. Compactness theorem
-  2. Stability theory
+2. Stability theory
 3. Recursion theory
 
   - 1. Recursion theorem
