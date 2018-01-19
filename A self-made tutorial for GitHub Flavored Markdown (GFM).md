@@ -100,7 +100,7 @@ Nice words:
 3. clang
 ```
 
-# Hierarchy lists (Nested lists) Part 1 (Wrong indentations)
+## Hierarchy lists (Nested lists) Part 1 (Wrong indentations)
 ### Mathematical logic
 1. Proof theory
   1. Cut elimination theorem
