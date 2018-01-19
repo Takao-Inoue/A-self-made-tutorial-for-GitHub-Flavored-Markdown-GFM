@@ -483,7 +483,7 @@ Iga    | _Tokugawa_
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry||
+|:strawberry: | Strawberry|| It looks nice, as well as it tasts.|
 |:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
@@ -512,7 +512,7 @@ Iga    | _Tokugawa_
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry||
+|:strawberry: | Strawberry|| It looks nice, as well as it tasts.|
 |:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
