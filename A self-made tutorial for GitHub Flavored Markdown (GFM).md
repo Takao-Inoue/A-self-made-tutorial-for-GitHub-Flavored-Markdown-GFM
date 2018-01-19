@@ -100,7 +100,7 @@ Nice words:
 3. clang
 ```
 
-# Hierarchy lists (Nested lists) Part 1
+# Hierarchy lists (Nested lists) Part 1 (Wrong indentations)
 ### Mathematical logic
 1. Proof theory
   1. Cut elimination theorem
@@ -120,7 +120,7 @@ Nice words:
   1. Mizar
   2. Category theory
 
-## Hierarchy lists (Nested lists) Part 2
+## Hierarchy lists (Nested lists) Part 2 (Correct indentations)
 ### Mathematical logic
 1. Proof theory
    1. Cut elimination theorem
