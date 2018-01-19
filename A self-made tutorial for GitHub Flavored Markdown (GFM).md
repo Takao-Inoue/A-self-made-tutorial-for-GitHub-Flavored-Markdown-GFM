@@ -123,27 +123,22 @@ Nice words:
 ## Hierarchy lists (Nested lists) Part 2
 ### Mathematical logic
 1. Proof theory
-+
-  1. Cut elimination theorem
-  2. Consistency
+  -1. Cut elimination theorem
+  -2. Consistency
 2. Model theory
-+
-.................
-1. Classic theory
-    1. Quantifier elimination
-    2. Compactness theorem
-2. Stability theory
-.................
+  -1. Classic theory
+     -1. Quantifier elimination
+     -2. Compactness theorem
+  -2. Stability theory
 3. Recursion theory
-
-  - 1. Recursion theorem
-    2. Arithmetical hierarchy
+   1. Recursion theorem
+   2. Arithmetical hierarchy
 4. Set theory
-+
+-
   1. Forcing
   2. Large cardinals
 5. Computer science and logic
-+
+--
   1. Mizar
   2. Category theory 
   
@@ -172,27 +167,22 @@ Nice words:
 ## Hierarchy lists (Nested lists) Part 2
 ### Mathematical logic
 1. Proof theory
-+
-  1. Cut elimination theorem
-  2. Consistency
+  -1. Cut elimination theorem
+  -2. Consistency
 2. Model theory
-+
-.................
-1. Classic theory
-    1. Quantifier elimination
-    2. Compactness theorem
-2. Stability theory
-.................
+  -1. Classic theory
+     -1. Quantifier elimination
+     -2. Compactness theorem
+  -2. Stability theory
 3. Recursion theory
-
-  - 1. Recursion theorem
-    2. Arithmetical hierarchy
+   1. Recursion theorem
+   2. Arithmetical hierarchy
 4. Set theory
-+
+-
   1. Forcing
   2. Large cardinals
 5. Computer science and logic
-+
+--
   1. Mizar
   2. Category theory 
 ```
@@ -537,7 +527,7 @@ Iga    | _Tokugawa_
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry|| It looks nice, as well as it tasts.|
+|:strawberry: | Strawberry|| Recent Japanese strawberry varieties have good taste and appearance.|
 |:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
@@ -566,7 +556,7 @@ Iga    | _Tokugawa_
 |:cherries: | Cherries | | Cute!
 |:grapes: | Grapes | |
 |:watermelon: |Watermelon  | | I like it! But don't eat too much.
-|:strawberry: | Strawberry|| It looks nice, as well as it tasts.|
+|:strawberry: | Strawberry|| Recent Japanese strawberry varieties have good taste and appearance.|
 |:peach: | Peach |||
 |:melon: | Melon| Sweet |
 |:banana: | Banana | | I have a custom to have one banana in the morning.|
@@ -574,30 +564,3 @@ Iga    | _Tokugawa_
 |:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
 
 ```
-
-1. List item one.
-+
-List item one continued with a second paragraph followed by an
-Indented block.
-+
-.................
-$ ls *.sh
-$ mv *.sh ~/tmp
-.................
-+
-List item continued with a third paragraph.
-
-2. List item two continued with an open block.
-+
---
-This paragraph is part of the preceding list item.
-
-a. This list is nested and does not require explicit item
-continuation.
-+
-This paragraph is part of the preceding list item.
-
-b. List item b.
-
-This paragraph belongs to item two of the outer list.
---
