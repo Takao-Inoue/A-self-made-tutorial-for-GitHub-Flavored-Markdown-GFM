@@ -123,24 +123,22 @@ Nice words:
 ## Hierarchy lists (Nested lists) Part 2
 ### Mathematical logic
 1. Proof theory
-  -1. Cut elimination theorem
-  -2. Consistency
+   1. Cut elimination theorem
+   2. Consistency
 2. Model theory
-  -1. Classic theory
-     -1. Quantifier elimination
-     -2. Compactness theorem
-  -2. Stability theory
+   1. Classic theory
+      1. Quantifier elimination
+      2. Compactness theorem
+   2. Stability theory
 3. Recursion theory
    1. Recursion theorem
    2. Arithmetical hierarchy
 4. Set theory
--
-  1. Forcing
-  2. Large cardinals
+   1. Forcing
+   2. Large cardinals
 5. Computer science and logic
---
-  1. Mizar
-  2. Category theory 
+   1. Mizar
+   2. Category theory 
   
 ```
 (The source of the above)
@@ -167,24 +165,22 @@ Nice words:
 ## Hierarchy lists (Nested lists) Part 2
 ### Mathematical logic
 1. Proof theory
-  -1. Cut elimination theorem
-  -2. Consistency
+   1. Cut elimination theorem
+   2. Consistency
 2. Model theory
-  -1. Classic theory
-     -1. Quantifier elimination
-     -2. Compactness theorem
-  -2. Stability theory
+   1. Classic theory
+      1. Quantifier elimination
+      2. Compactness theorem
+   2. Stability theory
 3. Recursion theory
    1. Recursion theorem
    2. Arithmetical hierarchy
 4. Set theory
--
-  1. Forcing
-  2. Large cardinals
+   1. Forcing
+   2. Large cardinals
 5. Computer science and logic
---
-  1. Mizar
-  2. Category theory 
+   1. Mizar
+   2. Category theory 
 ```
 
 ## Backslash escapes
