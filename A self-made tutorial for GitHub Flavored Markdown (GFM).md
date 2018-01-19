@@ -100,7 +100,7 @@ Nice words:
 3. clang
 ```
 
-## Hierachy lists
+## Hierarchy lists
 ### Mathematical logic
 1. Proof theory
   1. Cut elimination theorem
@@ -122,7 +122,7 @@ Nice words:
 
 ```
 (The source of the above)
-## Hierachy lists
+## Hierarchy lists
 ### Mathematical logic
 1. Proof theory
   1. Cut elimination theorem
