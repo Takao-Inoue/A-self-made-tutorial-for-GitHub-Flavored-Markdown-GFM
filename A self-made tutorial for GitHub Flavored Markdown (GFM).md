@@ -134,7 +134,7 @@ Nice words:
 - Python
 - Qt
 
-## Orderd lists
+## Ordered lists
 1. STL
 2. C++/CLI
 3. clang
