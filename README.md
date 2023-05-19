@@ -1,7 +1,7 @@
 # A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM
 A self-made tutorial for GitHub Flavored Markdown (GFM)
 
-Takao Inoue, Aug 4, 2016
+Takao Inoue (May 19, 2023)
 
 GitHub provides users with a syntax for formatting text called GitHub Flavored Markdown (GFM). 
 The filename extension for GFM is md, used as (filename).md. 
@@ -30,5 +30,6 @@ The structure of the tutorial is the following:
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
+All rights reserved by (C) Takao Inoue.  May 19, 2023.
 All rights reserved by (C) Takao Inoue.  Aug 3, 2016.
 
