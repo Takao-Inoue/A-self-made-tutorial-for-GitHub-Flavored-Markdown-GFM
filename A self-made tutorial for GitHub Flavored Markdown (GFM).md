@@ -117,7 +117,7 @@ Nice words:
 - Python
 - Qt
 
-## Orderd lists
+## Ordered lists
 1. STL
 2. C++/CLI
 3. clang
@@ -621,5 +621,6 @@ G. Gentzen's Hauptsatz[^1] is a theorem of proof theory[^2].
 Please see the rendered footnotes below.
 
 [^1]: It mesns 'main theorem' in English.
-[^2]: Proof theory emerged from the great mathematician D. Hilbert for the consistency proof of mathematics.
+[^2]: Proof theory emerged from the great mathematician 
+D. Hilbert for the consistency proof of mathematics.
 ```
