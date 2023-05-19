@@ -3,13 +3,67 @@ A self-made tutorial for GitHub Flavored Markdown (GFM)
 
 ## A self-made tutorial for GitHub Flavored Markdown (GFM)
 
-Takao Inoue, Aug 4, 2016
+Takao Inoue  (May 19, 2023)
 
    GitHub provides users with a syntax for formatting text called GitHub Flavored Markdown (GFM). 
 The filename extension for GFM is md, used as (filename).md. 
 This file is "A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM.md". 
 This short tutotial gives a set of concrete descriptions and their sources written by using GFM. 
 There is little explanation and one will directly understand the contents from the sources. 
+This was first presented Aug 4, 2016 and revised May 19 2023. The revision was added some basic 
+materials like triple backticks, footnotes, etc. 
+
+```
+(The source of the above)
+# A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM
+A self-made tutorial for GitHub Flavored Markdown (GFM)
+
+## A self-made tutorial for GitHub Flavored Markdown (GFM)
+
+Takao Inoue  (May 19, 2023)
+
+   GitHub provides users with a syntax for formatting text called GitHub Flavored Markdown (GFM). 
+The filename extension for GFM is md, used as (filename).md. 
+This file is "A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM.md". 
+This short tutotial gives a set of concrete descriptions and their sources written by using GFM. 
+There is little explanation and one will directly understand the contents from the sources. 
+This was first presented Aug 4, 2016 and revised May 19 2023. The revision was added some basic 
+materials like triple backticks, footnotes, etc. 
+```
+
+## Let us begin with the most basic things.
+#### The most basic thing 1: quoting codes and texts use triple backticks ` ``` `.
+#### The most basic thing 2: a new paragraph can be created by leaving a blank line between lines of text.
+
+````
+```
+The most basic thing 1: quoting codes use triple backticks ` ``` `.
+
+The most basic thing 2: a new paragraph can be created by leaving a blank line between lines of text.
+
+```
+````
+
+`````
+(The source of the above)
+## Let us begin with the most basic things.
+#### The most basic thing 1: quoting codes and texts use triple backticks ` ``` `.
+#### The most basic thing 2: a new paragraph can be created by leaving a blank line between lines of text.
+
+```` 
+``` 
+The most basic thing 1: quoting codes use triple backticks ` ``` `.
+
+The most basic thing 2: a new paragraph can be created by leaving a blank line between lines of text.
+
+```
+````
+`````
+The above gives the following:
+
+``` 
+The most basic thing 1: quoting codes use triple backticks ` ``` `.
+```
 
 ### Heading
 #### small heading
@@ -24,19 +78,6 @@ Nice words:
 
 ```
 (The source of the above)
-# A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM
-A self-made tutorial for GitHub Flavored Markdown (GFM)
-
-## A self-made tutorial for GitHub Flavored Markdown (GFM)
-
-Takao Inoue, Aug 4, 2016
-
-   GitHub provides users with a syntax for formatting text called GitHub Flavored Markdown (GFM). 
-The filename extension for GFM is md, used as (filename).md. 
-This file is "A-self-made-tutorial-for-GitHub-Flavored-Markdown-GFM.md". 
-This short tutotial gives a set of concrete descriptions and their sources written by using GFM. 
-There is little explanation and one will directly understand the contents from the sources. 
-
 ### Heading
 #### small heading
 ## Quoting text
@@ -48,7 +89,6 @@ Nice words:
 >“Not all of us can do great things. But we can do small things with great love.” 
 >― Mother Teresa
 ```
-
 ## Styling text
 *This text is italic.*
 **This text is bold.**
@@ -559,4 +599,27 @@ Iga    | _Tokugawa_
 |:pear: | Pear | Special nice taste |
 |:pineapple: | Pinapple | | It is very good as a topping for humburgers, I think.|
 
+```
+## Footnotes
+
+The so-called G. Gentzen's Hauptsatz[^1] is one of the greatest theorems in logic.
+
+G. Gentzen's Hauptsatz is a theorem of proof theory[^2].
+
+Please see the rendered footnotes below.
+
+[^1]: It mesns 'main theorem' in English.
+[^2]: Proof theory emarged from the great mathematician D. Hilbert for the consistency proof of mathematics.
+```
+(The source of the above)
+## Footnotes
+
+The so-called G. Gentzen's Hauptsatz[^1] is one of the greatest theorems in logic.
+
+G. Gentzen's Hauptsatz[^1] is a theorem of proof theory[^2].
+
+Please see the rendered footnotes below.
+
+[^1]: It mesns 'main theorem' in English.
+[^2]: Proof theory emerged from the great mathematician D. Hilbert for the consistency proof of mathematics.
 ```
