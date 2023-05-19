@@ -371,7 +371,7 @@ When you mention me, use @Takao-Inoue.
 When you mention me, use @Takao-Inoue.
 ```
 
-## Underscores are ignored in multiple occrrences
+## Underscores are ignored in multiple occurrences
 
 MUSSER-1997-Software-_Practice_and_Experience.pdf
 
