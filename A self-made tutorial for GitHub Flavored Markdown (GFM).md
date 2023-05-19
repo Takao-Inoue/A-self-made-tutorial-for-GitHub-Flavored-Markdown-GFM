@@ -62,7 +62,7 @@ The most basic thing 2: a new paragraph can be created by leaving a blank line b
 The above gives the following:
 
 ``` 
-The most basic thing 1: quoting codes use triple backticks ` ``` `.
+The most basic thing 1: quoting codes and texts use triple backticks ` ``` `.
 ```
 
 ### Heading
